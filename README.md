@@ -1,5 +1,13 @@
 # web-app-version3
 
+This is a hand-on cloud engineering project delivered by the azubi africa Cloud Engineering Winter Class of 2023/2024, team AI Mavericks. After 6 months of AWS cloud training and DevOps Engineering, we got a chance to work on some realife cloud projects. I was able to work with:
+
+Jude Nyamekye Koomson @https://www.linkedin.com/judenyame
+Sandra Wettey @https://www.linkedin.com/in/sandra-wettey
+Peace Issa @https://www.linkedin.com/in/peace-issa/
+Benson Gathu @https://www.linkedin.com/in/benson-gathu
+
+
 Guestbook Web Application with AWS DynamoDB, AWS SDK for PHP, Terraform, and Docker
 Project Overview
 This project demonstrates the creation of a Guestbook web application that utilizes AWS DynamoDB as a backend database. The project employs AWS SDK for PHP to interact with DynamoDB, Terraform to provision the infrastructure, and Docker for containerization. The project is version-controlled using GitHub.
